@@ -17,4 +17,4 @@
 
 ### Visualização do projeto: <hr>
 
-- [Lista de Tarefas](https://alarme-em-js.netlify.app/)
+- [Lista de Tarefas](https://app-lista-tarefas.netlify.app/)
